@@ -6,8 +6,8 @@ html, body {
   margin: 0;
   border: 0;
   padding: 0;
-  background-color: #fff;
-  background: aqua;
+  background-color: rgb(211, 1, 1);
+  background: rgb(72, 255, 0);
 }
 
 main {
